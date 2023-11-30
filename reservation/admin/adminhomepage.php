@@ -130,7 +130,7 @@ $firstname = $_SESSION["admin_firstname"]      ;
 </nav>
 
 
-
+ 
     <div class="button-container">
         <div class="button">
             <img src="../images/add.png" alt="Button 1">
@@ -141,15 +141,15 @@ $firstname = $_SESSION["admin_firstname"]      ;
 
         <div class="button">
             <img src="../images/view.png" alt="Button 2">
-            <a href="viewreserve.php">
-                <p>View Reservations</p>
+            <a href="viewitems.php">
+                <p>Items</p>
             </a>
         </div>
 
         <div class="button">
             <img src="../images/chedits.png" alt="Button 3">
             <a href="edit.php">
-                <p>Confirmation</p>
+                <p>Reservations</p>
             </a>
         </div>
     </div>

@@ -310,7 +310,7 @@
 
     }
     $conn->close();
-
+ 
     ?>
     <!-- status modal or status information -->
     <div class=" mb-5 w-25 " id="createNote"
